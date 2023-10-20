@@ -21,10 +21,29 @@
 ## Tracks 🛤️
 
 1. **Project Contributions:** We have included 10 projects in various domains, and contributors can actively participate in these projects. The top contributor for each project will be rewarded with swag. 🌟
+   
+   # Project List
 
-2. **Blogging:** Share your insights and knowledge by writing blogs on sponsor technologies. Top contributors from each sponsor will receive swag from their respective sponsors. ✍️
+      | Name of Project | Project Link                                            | Domain | Admin        |
+      |-----------------|---------------------------------------------------------|--------|--------------|
+      | Future.Webnet   | [Future.WebNet](https://github.com/Vikash-8090-Yadav/Future.WebNet) | web3   | YourAdminName|
+      | Solidity Pathshala|[Solidity Pathshala](https://github.com/Vikash-8090-Yadav/Solidity-Pathshala)| Solidity| Admin Name|
 
-3. **Build Your Own Project:** Contributors are encouraged to build their own projects using sponsor technologies. The top contributors in this track will be rewarded with swag from the sponsor. 🏗️
+
+
+3. **Blogging:** Share your insights and knowledge by writing blogs on sponsor technologies. Top contributors from each sponsor will receive swag from their respective sponsors. ✍️
+        # Sponsors
+
+      | Name of Sponsor | Sponsor Link                                   | Domain | Admin       |
+      |-----------------|-----------------------------------------------|--------|-------------|
+      | Router protocol | [Router protocol](https://example.com)        | web3   | YourAdminName |
+      | GitHub          | [GitHub](https://github.com)                  | GitHub | Admin Name    |
+      | Endless Domain  | [Endless Domain](https://example.com)         | GitHub | Admin Name    |
+      | Dapp World      | [Dapp World](https://example.com)             | GitHub | Admin Name    |
+
+     
+
+5. **Build Your Own Project:** Contributors are encouraged to build their own projects using sponsor technologies. The top contributors in this track will be rewarded with swag from the sponsor. 🏗️
 
 ## Timeline 📆
 
