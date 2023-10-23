@@ -11,6 +11,7 @@
     - [Project Contributions](#project-contributions)
     - [Blogging](#blogging)
     - [Build Your Own Project](#build-your-own-project)
+  - [Project Admin 📆](#Project-Admin)
   - [Timeline 📆](#timeline-️)
 
 
@@ -63,7 +64,33 @@
       | GitHub          | [GitHub](https://github.com)                  | 
       | Endless Domain  | [Endless Domain](https://endlessdomains.io/)  | 
       | Dapp World      | [Dapp World](https://dapp-world.com/)             |
-      | Graph Protocol      | [Graph Protocol](https://thegraph.com/)             | 
+      | Graph Protocol      | [Graph Protocol](https://thegraph.com/)             |
+
+
+
+##  Project Admin
+# Instruction for Project Admins Participating in OSEN
+
+Dear Project Admin,
+
+Congratulations on participating in the OSEN initiative. To ensure smooth functioning and better categorization of projects, please make sure to include the following labels in your repository:
+
+- OSEN
+- SIMPLE
+- MEDIUM
+- HARD
+
+Assign the following points to each label:
+
+- SIMPLE - 10
+- MEDIUM - 20
+- HARD - 30
+
+Ensure that these labels accurately reflect the complexity of your project.
+
+For any questions or assistance, feel free to reach out to us.
+
+
 
 ## Timeline 📆
 
