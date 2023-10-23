@@ -22,7 +22,7 @@
 
 1. **Project Contributions:** We have included 10 projects in various domains, and contributors can actively participate in these projects. The top contributor for each project will be rewarded with swag. 🌟
    
-   # Project List     https://github.com/abhisheks008/DL-Simplified
+   # Project List  
       | Name of Project | Project Link                                            | Domain | Admin        |
       |-----------------|---------------------------------------------------------|--------|--------------|
       | Future.Webnet   | [Future.WebNet](https://github.com/Vikash-8090-Yadav/Future.WebNet) | web3   | YourAdminName|
@@ -33,7 +33,8 @@
       | MemeGenerator |[MemeGenerator](https://github.com/avinash201199/MemeGenerator)|  Web2 |Avinash|
       | Competitions-and-Programs-List |[Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List) | Web2 |Avinash|
       | Your-Projects |[Your-Projects](https://github.com/avinash201199/Your-Projects)| Web2 |Avinash|
-      | DL-Simplified |[Abhisheks008](https://github.com/abhisheks008/DL-Simplified)| AI / ML |Abhishek|
+      | DL-Simplified |[DL-Simplified](https://github.com/abhisheks008/DL-Simplified)| AI / ML |Abhishek|
+      
      
    
    
@@ -43,16 +44,26 @@
 3. **Blogging:** Share your insights and knowledge by writing blogs on sponsor technologies. Top contributors from each sponsor will receive swag from their respective sponsors. ✍️
         # Sponsors
 
-      | Name of Sponsor | Sponsor Link                                   | Domain | Admin       |
-      |-----------------|-----------------------------------------------|--------|-------------|
-      | Router protocol | [Router protocol](https://example.com)        | web3   | YourAdminName |
-      | GitHub          | [GitHub](https://github.com)                  | GitHub | Admin Name    |
-      | Endless Domain  | [Endless Domain](https://example.com)         | GitHub | Admin Name    |
-      | Dapp World      | [Dapp World](https://example.com)             | GitHub | Admin Name    |
+      | Name of Sponsor | Sponsor Link                                   | 
+      |-----------------|-----------------------------------------------|
+      | Router protocol | [Router protocol](https://devnet-docs.routerprotocol.com/) | 
+      | GitHub          | [GitHub](https://github.com)                  | 
+      | Endless Domain  | [Endless Domain](https://endlessdomains.io/)  | 
+      | Dapp World      | [Dapp World](https://dapp-world.com/)             |
+      | Graph Protocol      | [Graph Protocol](https://thegraph.com/)             | 
 
      
 
 5. **Build Your Own Project:** Contributors are encouraged to build their own projects using sponsor technologies. The top contributors in this track will be rewarded with swag from the sponsor. 🏗️
+
+
+   | Name of Sponsor | Sponsor Link                                   | 
+      |-----------------|-----------------------------------------------|
+      | Router protocol | [Router protocol](https://devnet-docs.routerprotocol.com/) | 
+      | GitHub          | [GitHub](https://github.com)                  | 
+      | Endless Domain  | [Endless Domain](https://endlessdomains.io/)  | 
+      | Dapp World      | [Dapp World](https://dapp-world.com/)             |
+      | Graph Protocol      | [Graph Protocol](https://thegraph.com/)             | 
 
 ## Timeline 📆
 
