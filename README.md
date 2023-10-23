@@ -26,8 +26,8 @@
    # Project List  
       | Name of Project | Project Link                                            | Domain | Admin        |
       |-----------------|---------------------------------------------------------|--------|--------------|
-      | Future.Webnet   | [Future.WebNet](https://github.com/Vikash-8090-Yadav/Future.WebNet) | web3   | YourAdminName|
-      | Solidity Pathshala|[Solidity Pathshala](https://github.com/Vikash-8090-Yadav/Solidity-Pathshala)| Solidity| Admin Name|
+      | Future.Webnet   | [Future.WebNet](https://github.com/Vikash-8090-Yadav/Future.WebNet) | web3   | Vikash|
+      | Solidity Pathshala|[Solidity Pathshala](https://github.com/Vikash-8090-Yadav/Solidity-Pathshala)| Solidity| Vikash |
       | Moksh |[Moksh](https://github.com/akshitagupta15june/Moksh)|  Web Dev |Akshita Gupta|
       | METAVERSE |[METAVERSE](https://github.com/apu52/METAVERSE)|  Web3 |Arpan|
       | NSCC |[NSCC](https://github.com/NSCC-BPIT/NSCC-BPIT-Website)| Web2 ||
