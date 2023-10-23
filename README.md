@@ -27,12 +27,12 @@
       |-----------------|---------------------------------------------------------|--------|--------------|
       | Future.Webnet   | [Future.WebNet](https://github.com/Vikash-8090-Yadav/Future.WebNet) | web3   | YourAdminName|
       | Solidity Pathshala|[Solidity Pathshala](https://github.com/Vikash-8090-Yadav/Solidity-Pathshala)| Solidity| Admin Name|
-      | Moksh |[Moksh](https://github.com/akshitagupta15june/Moksh)| | Web Dev |Akshita Gupta|
-      | METAVERSE |[METAVERSE](https://github.com/apu52/METAVERSE)| | Web3 |Arpan|
-      | NSCC |[NSCC](https://github.com/NSCC-BPIT/NSCC-BPIT-Website)| | Web2 ||
-      | MemeGenerator |[MemeGenerator](https://github.com/avinash201199/MemeGenerator)| | Web2 |Avinash|
-      | Competitions-and-Programs-List |[Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List)| | Web2 |Avinash|
-      | Your-Projects |[Your-Projects](https://github.com/avinash201199/Your-Projects)| | Web2 |Avinash|
+      | Moksh |[Moksh](https://github.com/akshitagupta15june/Moksh)|  Web Dev |Akshita Gupta|
+      | METAVERSE |[METAVERSE](https://github.com/apu52/METAVERSE)|  Web3 |Arpan|
+      | NSCC |[NSCC](https://github.com/NSCC-BPIT/NSCC-BPIT-Website)| Web2 ||
+      | MemeGenerator |[MemeGenerator](https://github.com/avinash201199/MemeGenerator)|  Web2 |Avinash|
+      | Competitions-and-Programs-List |[Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List) | Web2 |Avinash|
+      | Your-Projects |[Your-Projects](https://github.com/avinash201199/Your-Projects)| Web2 |Avinash|
      
    
    
