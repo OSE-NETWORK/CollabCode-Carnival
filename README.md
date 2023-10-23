@@ -62,8 +62,6 @@
       |-----------------|-----------------------------------------------|
       | Router protocol | [Router protocol](https://devnet-docs.routerprotocol.com/) | 
       | GitHub          | [GitHub](https://github.com)                  | 
-      | Endless Domain  | [Endless Domain](https://endlessdomains.io/)  | 
-      | Dapp World      | [Dapp World](https://dapp-world.com/)             |
       | Graph Protocol      | [Graph Protocol](https://thegraph.com/)             |
 
 
