@@ -95,6 +95,7 @@ For any questions or assistance, feel free to reach out to us.
 ## Timeline 📆
 
 - **Opening ceremony:** 23rd October 2023
+- **Contribution Phase:** 24rd October 2023 after 12 Pm
 - **Closing ceremony:** 20 November 2023
 
 Join us in this exciting journey of open-source contribution and growth! 💡
