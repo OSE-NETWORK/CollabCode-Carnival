@@ -34,6 +34,7 @@
    | Your-Projects                  | [Your-Projects](https://github.com/avinash201199/Your-Projects)                                   | Web2     | Avinash          |
    | DL-Simplified                  | [DL-Simplified](https://github.com/abhisheks008/DL-Simplified)                                    | AI / ML  | Abhishek         |
    | Machine_Learning               | [Machine_Learning](https://github.com/mdvadiyatnaqvi/Machine_Learning)                            | AI / ML  | Md Vadiyat Naqvi |
+   | ISRO-web               | [ISRO-web](https://github.com/dakshsinghrathore/ISRO-web)                            | Web Dev  |Daksh Singh Rathore |
 
 2. **Blogging:** Share your insights and knowledge by writing blogs on sponsor technologies. Top contributors from each sponsor will receive swag from their respective sponsors. ✍️ # Sponsors
 
