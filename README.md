@@ -34,9 +34,11 @@
    | Your-Projects                  | [Your-Projects](https://github.com/avinash201199/Your-Projects)                                   | Web2     | Avinash          |
    | DL-Simplified                  | [DL-Simplified](https://github.com/abhisheks008/DL-Simplified)                                    | AI / ML  | Abhishek         |
    | Machine_Learning               | [Machine_Learning](https://github.com/mdvadiyatnaqvi/Machine_Learning)                            | AI / ML  | Md Vadiyat Naqvi |
-   | ISRO-web               | [ISRO-web](https://github.com/dakshsinghrathore/ISRO-web)                            | Web Dev  |Daksh Singh Rathore |
+   | ISRO-web                       | [ISRO-web](https://github.com/dakshsinghrathore/ISRO-web)                                        | Web Dev  |Daksh Singh Rathore |
+   | BUS-SERVICES                   | [Bus-Service](https://github.com/PIYUSH1525/BUS-SERVICE)                                            | Web2     | Piyush Negi      |
+   | UniArchive                     | [University](https://github.com/PIYUSH1525/WEBSITE-NOTES)                                           | Web2     | Piyush Negi      |
 
-2. **Blogging:** Share your insights and knowledge by writing blogs on sponsor technologies. Top contributors from each sponsor will receive swag from their respective sponsors. ✍️ # Sponsors
+3. **Blogging:** Share your insights and knowledge by writing blogs on sponsor technologies. Top contributors from each sponsor will receive swag from their respective sponsors. ✍️ # Sponsors
 
    | Name of Sponsor | Sponsor Link                                               |
    | --------------- | ---------------------------------------------------------- |
@@ -46,7 +48,7 @@
    | Dapp World      | [Dapp World](https://dapp-world.com/)                      |
    | Graph Protocol  | [Graph Protocol](https://thegraph.com/)                    |
 
-3. **Build Your Own Project:** Contributors are encouraged to build their own projects using sponsor technologies. The top contributors in this track will be rewarded with swag from the sponsor. 🏗️
+4. **Build Your Own Project:** Contributors are encouraged to build their own projects using sponsor technologies. The top contributors in this track will be rewarded with swag from the sponsor. 🏗️
 
    | Name of Sponsor | Sponsor Link                                               |
    | --------------- | ---------------------------------------------------------- |
